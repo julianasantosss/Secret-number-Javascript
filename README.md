@@ -15,7 +15,7 @@ A fun and interactive project developed as the final assignment for the Alura Ja
 
 ## How to Visualize the Project
 You can check out the project here:
-[View the Secret Number Game](#) 
+[View the Secret Number Game](https://julianasantosss.github.io/Secret-number-Javascript/) 
 
 ## Installation Instructions
 To run this project locally:
